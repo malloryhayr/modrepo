@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as i,Q as o}from"./chunks/framework.8adf7a9a.js";const v=JSON.parse('{"title":"ModRepo Overview","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),r={name:"index.md"},t=o("",5),n=[t];function l(c,d,s,_,h,f){return a(),i("div",null,n)}const p=e(r,[["render",l]]);export{v as __pageData,p as default};
